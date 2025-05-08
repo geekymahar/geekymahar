@@ -1,11 +1,11 @@
 <!-- profile README for github.com/geekymahar -->
 
-<h1 align="center">Hey there 👋, I'm Yogesh Meena (GeekyMahar)</h1>
-<h3 align="center">DevOps | Cloud Security | Automation Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Yogesh Meena</h1>
+<h3 align="center">An Automation Enthusiast</h3>
 
 ---
 
-🔭 Currently working at **Toukan Labs**, building secure and scalable solutions for healthcare (OpenEyes EMR)
+🔭 Currently working at **Toukan Labs**, building secure and scalable solutions for healthcare ([OpenEyes EPR](https://openeyes.apperta.org/))
 
 🎓 M.Sc. in Information Security from Royal Holloway, University of London
 
