@@ -30,27 +30,12 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GeekyMahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekymahar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekymahar&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Projects
-
-- 🔧 [GeekyMahar CLI Setup](https://github.com/geekymahar/geekymahar-cli-setup)
-- 🧼 Docker Cleanup Tools
-- 📁 Laravel File Upload App
-- 🧠 Tailscale Scripts + Proxmox Automation
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/geekymahar)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/geekymahar)
 [![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://myceliumweb.com)
 
+---
+![Profile views](https://komarev.com/ghpvc/?username=geekymahar&color=blue&style=flat)
 ---
