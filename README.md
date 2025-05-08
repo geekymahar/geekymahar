@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- profile README for github.com/geekymahar -->
 
-<!--
-**geekymahar/geekymahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Yogesh Meena (GeekyMahar)</h1>
+<h3 align="center">DevOps | Cloud Security | Automation Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working at **Toukan Labs**, building secure and scalable solutions for healthcare (OpenEyes EMR)
+
+🎓 M.Sc. in Information Security from Royal Holloway, University of London
+
+🌍 Writing about DevOps, cloud & security at [myceliumweb.com](https://myceliumweb.com)
+
+💡 Passionate about automation, infrastructure-as-code, and cybersecurity
+
+📦 Building: `geekymahar-cli-setup`, Docker workflows, Laravel tools, and Proxmox scripts
+
+---
+
+## 🛠️ Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![GeekyMahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekymahar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geekymahar&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+
+- 🔧 [GeekyMahar CLI Setup](https://github.com/geekymahar/geekymahar-cli-setup)
+- 🧼 Docker Cleanup Tools
+- 📁 Laravel File Upload App
+- 🧠 Tailscale Scripts + Proxmox Automation
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/geekymahar)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/geekymahar)
+[![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://myceliumweb.com)
+
+---
